@@ -1,0 +1,24 @@
+ERICK EVANS
+
+[00:37, 01/04/2020] +1 (514) 677-1981: Martinfowler.com
+[00:37, 01/04/2020] +1 (514) 677-1981: Microservices.io
+[00:37, 01/04/2020] +1 (514) 677-1981: Outro livro de Sam Newman mais recente
+
+Sam Newman Building Microservices 
+
+https://www.google.com/search?kgmid=/g/11b60fxb0y&hl=pt-BR&q=building+microservices&kgs=63419b17a2d9c090&shndl=0&source=sh/x/kp/osrp&entrypoint=sh/x/kp/osrp
+
+https://g.co/kgs/gJj6Yu
+
+Migraton Database to monolit
+https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/
+https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/
+
+
+Sam Newman Building Microservices https://www.google.com/search?kgmid=/g/11b60fxb0y&hl=pt-BR&q=building+microservices&kgs=63419b17a2d9c090&shndl=0&source=sh/x/kp/osrp&entrypoint=sh/x/kp/osrp
+
+https://g.co/kgs/gJj6Yu
+
+https://microservices.io/patterns/data/event-driven-architecture.html
+
+https://microservices.io/patterns/data/database-per-service.html
